@@ -1,0 +1,7 @@
+Question:
+Given a string, return true if it ends in "ly".
+
+Use Cases:
+endsLy("oddly") → true
+endsLy("y") → false
+endsLy("oddy") → false
